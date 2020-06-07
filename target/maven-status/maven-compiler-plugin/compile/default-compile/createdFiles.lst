@@ -1,0 +1,7 @@
+com\bazaraki\pages\AdvertisementPage.class
+com\bazaraki\steps\UISteps.class
+com\bazaraki\pages\LocationsPopup.class
+com\bazaraki\pages\LoginPage.class
+com\bazaraki\models\Advertisement.class
+com\bazaraki\pages\FiltersPopup.class
+com\bazaraki\pages\MainPage.class
